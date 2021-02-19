@@ -1,0 +1,8 @@
+Algoritmo Hola
+	Escribir "Hola alumno"
+	Leer saludar
+	Escribir "¿cómo te llamas?"
+	Leer nombre
+	Escribir "Encantado de cononerte," nombre
+	
+FinAlgoritmo
